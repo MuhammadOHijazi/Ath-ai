@@ -29,10 +29,18 @@ AI Models: Zero123++, Vision Transformers (ViT), and more.
 ## 📸 Screenshots:
 
 ### 🖼️ Image-to-3D Model:
-##### convert this image:
-![photo_14_2024-08-20_11-55-42](https://github.com/user-attachments/assets/9933ba45-58d1-48ea-a984-fc3e9ec32155)
+##### convert this chair from single image:
+![photo_14_20![photo_11_2024-08-20_11-55-42](https://github.com/user-attachments/assets/141090e6-988c-4eb2-8969-894a60431f50)
+##### to 3d model:
 
-##### to this:
+https://github.com/user-attachments/assets/587a5bdf-2435-4a63-b998-fca21a7fb7e8
+
+![photo_2025-01-10_19-36-21](https://github.com/user-attachments/assets/dda27955-a69d-426e-9b01-fb1d9310fe16)
+
+##### convert this table from single image:
+24-08-20_11-55-42](https://github.com/user-attachments/assets/9933ba45-58d1-48ea-a984-fc3e9ec32155)
+
+##### to 3D model:
 https://github.com/user-attachments/assets/f2f39d65-1678-4c5a-896b-b0a12ca40f3a
 ![photo_2025-01-10_19-33-06](https://github.com/user-attachments/assets/80cc7503-2f61-4cba-b09b-6eec280d471c)
 
