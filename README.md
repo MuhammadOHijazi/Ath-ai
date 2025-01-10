@@ -38,10 +38,13 @@ https://github.com/user-attachments/assets/587a5bdf-2435-4a63-b998-fca21a7fb7e8
 ![photo_2025-01-10_19-36-21](https://github.com/user-attachments/assets/dda27955-a69d-426e-9b01-fb1d9310fe16)
 
 ##### convert this table from single image:
-24-08-20_11-55-42](https://github.com/user-attachments/assets/9933ba45-58d1-48ea-a984-fc3e9ec32155)
+
+![photo_14_2024-08-20_11-55-42](https://github.com/user-attachments/assets/9dd26479-0618-4212-8ad0-e2a2e67df26d)
 
 ##### to 3D model:
-https://github.com/user-attachments/assets/f2f39d65-1678-4c5a-896b-b0a12ca40f3a
+
+https://github.com/user-attachments/assets/900cb38a-add5-4647-8fc1-3f9926ec5a94
+
 ![photo_2025-01-10_19-33-06](https://github.com/user-attachments/assets/80cc7503-2f61-4cba-b09b-6eec280d471c)
 
 
