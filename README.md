@@ -7,10 +7,11 @@ Whether you’re a designer, architect, or homeowner, Athai provides an intuitiv
 ## 🌟 State-of-the-Art AI Technologies
 #### Athai integrates the latest advancements in:
 
-*Natural Language Processing (NLP):*
+##### *Natural Language Processing (NLP):*
 Understand and interpret textual descriptions to generate accurate 3D models.
-*Large Reconstruction Models (LRMs):* 
+##### *Large Reconstruction Models (LRMs):* 
 Efficiently map 2D inputs into robust 3D representations.
-*Transformer Architectures:* 
+##### *Transformer Architectures:* 
 Leverage models like Vision Transformers (ViT) for precise 3D reconstructions.
-Diffusion Models: Generate smooth and realistic 3D views with iterative refinement processes.
+##### Diffusion Models: 
+Generate smooth and realistic 3D views with iterative refinement processes.
