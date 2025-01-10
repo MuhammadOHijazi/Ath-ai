@@ -29,6 +29,7 @@ AI Models: Zero123++, Vision Transformers (ViT), and more.
 ## 📸 Screenshots:
 
 ### 🖼️ Image-to-3D Model:
+
 ##### convert this chair from single image:
 ![photo_14_20![photo_11_2024-08-20_11-55-42](https://github.com/user-attachments/assets/141090e6-988c-4eb2-8969-894a60431f50)
 ##### to 3d model:
@@ -47,4 +48,19 @@ https://github.com/user-attachments/assets/900cb38a-add5-4647-8fc1-3f9926ec5a94
 
 ![photo_2025-01-10_19-33-06](https://github.com/user-attachments/assets/80cc7503-2f61-4cba-b09b-6eec280d471c)
 
+
+###✍️ Text-to-3D Model:
+
+##### *use prompt to generate this image:*
+![bananaChair](https://github.com/user-attachments/assets/627c4385-0b5d-4644-af44-9ef534859255)
+
+##### *to be 3d model at the End:*
+https://github.com/user-attachments/assets/d3e82bb7-c843-4f33-9448-23df7470bffb
+
+##### *use prompt to generate this image:*
+
+![bed3](https://github.com/user-attachments/assets/a623b9ab-76db-48fe-8d6a-ed27c4d388d2)
+
+##### *to be 3d model at the End:*
+![new_images](https://github.com/user-attachments/assets/948d22be-488d-408c-97bb-8c3599cebd66)
 
